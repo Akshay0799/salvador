@@ -3,4 +3,6 @@
 A Cross-platform Flutter Application designed to Anonymously Report Accidents.
 
 ## Technologies Used
-Flutter, TensorFlowLite, Twilio API
+* Flutter
+* TensorFlowLite
+* Twilio API
